@@ -1,0 +1,126 @@
+body {
+background-color: #fffff;
+padding: 150px;
+font-family: 'Roboto', sans-serif;
+}
+
+
+
+h1 {
+	color: royalblue;
+	text-align: center;
+}
+
+
+.images {width:400px;
+	height: 400px;
+	object-fit: cover;
+}
+
+
+.big-size {
+	width: 900px;
+	height: 900px;
+	object-fit: cover;
+}
+
+
+p {
+font-family: 'Roboto', sans-serif;
+}
+
+
+
+h1 {
+color: #2d2c2c;
+text-align: center;
+padding: 10px;
+}
+
+
+
+.big-size{
+	width: 80%;
+height: 80%;
+object-fit: cover;
+margin-bottom: 10px;
+margin-top: 20px;
+}
+
+.medium-size {
+width: 400%;
+height: 50%;
+object-fit: cover;
+margin-bottom: 20px;
+margin-top: 50px;
+}
+
+.square-size {
+width: : 200px;
+height: 100px;
+object-fit: cover;
+}
+
+.small-size{
+width: 30%;
+height: 300px;
+object-fit: cover;
+margin-bottom: 20px;
+margin-top: 20px;
+}
+
+.element-center {
+text-align: center;
+}
+
+
+
+div {
+background-color: #F6BD60;
+padding: 10px;
+margin: 30px;
+left-margin: 100px;
+right-margin: 100px;
+border: 1px solid #524233;
+}
+
+
+.deux {
+	background-color: #F7EDE2;
+	text-align: center
+}
+
+.trois {
+	background-color: #F5CAC3;
+	text-align: center
+}
+
+.quatre {
+	background-color: #84A59D;
+	text-align: center
+}
+
+.element-aligned {
+	Displey: flex;
+	justify-content: space-around;
+}
+
+
+.navigation-aligned {
+	display: flex;
+	justify-content: space-around;
+	padding: 30px;
+}
+
+
+a {
+	color:  black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: pink ;
+	front-size: 22px;
+	front-weight: 800: ;
+	
+}
